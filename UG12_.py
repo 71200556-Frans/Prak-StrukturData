@@ -44,7 +44,7 @@ class Tree:
         return None
 
 
-# Membangun struktur tree sesuai dengan testcase
+# Struktur tree sesuai testcase
 val200 = Node(200)
 val5 = Node(5)
 val7 = Node(7)
